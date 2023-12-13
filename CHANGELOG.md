@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.2](https://github.com/akinsho/bufferline.nvim/compare/v4.4.1...v4.4.2) (2023-12-13)
+
+
+### Bug Fixes
+
+* skip invalid regex in truncate_name ([#841](https://github.com/akinsho/bufferline.nvim/issues/841)) ([ac788fb](https://github.com/akinsho/bufferline.nvim/commit/ac788fbc493839c1e76daa8d119934b715fdb90e))
+
 ## [4.4.1](https://github.com/akinsho/bufferline.nvim/compare/v4.4.0...v4.4.1) (2023-12-06)
 
 
